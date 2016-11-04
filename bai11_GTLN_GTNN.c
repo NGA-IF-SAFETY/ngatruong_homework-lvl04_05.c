@@ -32,8 +32,8 @@ void main()
 
     }  
 
-    printf("\n GTNN= %d", min);  
+    printf("\n GTNN= %d", GTNN);  
 
-    printf("\n GTLN= %d", max);
+    printf("\n GTLN= %d", GTLN);
 
 }
